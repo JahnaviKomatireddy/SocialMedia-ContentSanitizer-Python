@@ -22,3 +22,8 @@ Python (Core Concepts)
 Lists, Tuples, Dictionaries
 File Handling
 
+OUTPUT
+![](output.png)
+![](links_found.txt)
+
+
