@@ -1,5 +1,4 @@
 # Social Media Content Sanitizer
-#updated
 import re
 
 n = int(input("Enter number of posts: "))
